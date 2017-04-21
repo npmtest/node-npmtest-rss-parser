@@ -1,34 +1,34 @@
 <svg height="494" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="494" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 06:45:44 +0000  1297313 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 06:45:44 +0000      839 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 06:45:44 +0000     1070 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 06:45:44 +0000     1821 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 06:45:44 +0000      357 bytes  bower.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 06:45:44 +0000   493794 bytes  dist/rss-parser.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 06:45:44 +0000   204553 bytes  dist/rss-parser.min.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 06:45:44 +0000     6666 bytes  index.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 06:45:44 +0000      910 bytes  package.json</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 06:45:44 +0000    29635 bytes  test/input/craigslist.rss</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 06:45:44 +0000   149725 bytes  test/input/feedburner.atom</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 06:45:44 +0000     5179 bytes  test/input/gulp-atom.atom</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 06:45:44 +0000    21550 bytes  test/input/heise.atom</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 06:45:44 +0000      898 bytes  test/input/instant-article.rss</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 06:45:44 +0000      232 bytes  test/input/missing-fields.atom</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 06:45:44 +0000     2659 bytes  test/input/narro.rss</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 06:45:44 +0000    31057 bytes  test/input/reddit-atom.rss</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 06:45:44 +0000    35268 bytes  test/input/reddit-home.rss</tspan>
-<tspan x="10" y="314"> 18.  2017-04-21 06:45:44 +0000    36475 bytes  test/input/reddit.rss</tspan>
-<tspan x="10" y="330"> 19.  2017-04-21 06:45:44 +0000   147465 bytes  test/output/feedburner.json</tspan>
-<tspan x="10" y="346"> 20.  2017-04-21 06:45:44 +0000     3249 bytes  test/output/gulp-atom.json</tspan>
-<tspan x="10" y="362"> 21.  2017-04-21 06:45:44 +0000    18770 bytes  test/output/heise.json</tspan>
-<tspan x="10" y="378"> 22.  2017-04-21 06:45:44 +0000      609 bytes  test/output/instant-article.json</tspan>
-<tspan x="10" y="394"> 23.  2017-04-21 06:45:44 +0000      121 bytes  test/output/missing-fields.json</tspan>
-<tspan x="10" y="410"> 24.  2017-04-21 06:45:44 +0000     2154 bytes  test/output/narro.json</tspan>
-<tspan x="10" y="426"> 25.  2017-04-21 06:45:44 +0000    28601 bytes  test/output/reddit-atom.json</tspan>
-<tspan x="10" y="442"> 26.  2017-04-21 06:45:44 +0000    37467 bytes  test/output/reddit-home.json</tspan>
-<tspan x="10" y="458"> 27.  2017-04-21 06:45:44 +0000    34188 bytes  test/output/reddit.json</tspan>
-<tspan x="10" y="474"> 28.  2017-04-21 06:45:44 +0000     2001 bytes  test/parser.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 06:46:47 +0000  1297313 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 06:46:47 +0000      839 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 06:46:47 +0000     1070 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 06:46:47 +0000     1821 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 06:46:47 +0000      357 bytes  bower.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 06:46:47 +0000   493794 bytes  dist/rss-parser.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 06:46:47 +0000   204553 bytes  dist/rss-parser.min.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 06:46:47 +0000     6666 bytes  index.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 06:46:47 +0000      910 bytes  package.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 06:46:47 +0000    29635 bytes  test/input/craigslist.rss</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 06:46:47 +0000   149725 bytes  test/input/feedburner.atom</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 06:46:47 +0000     5179 bytes  test/input/gulp-atom.atom</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 06:46:47 +0000    21550 bytes  test/input/heise.atom</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 06:46:47 +0000      898 bytes  test/input/instant-article.rss</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 06:46:47 +0000      232 bytes  test/input/missing-fields.atom</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 06:46:47 +0000     2659 bytes  test/input/narro.rss</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 06:46:47 +0000    31057 bytes  test/input/reddit-atom.rss</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 06:46:47 +0000    35268 bytes  test/input/reddit-home.rss</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 06:46:47 +0000    36475 bytes  test/input/reddit.rss</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 06:46:47 +0000   147465 bytes  test/output/feedburner.json</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 06:46:47 +0000     3249 bytes  test/output/gulp-atom.json</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 06:46:47 +0000    18770 bytes  test/output/heise.json</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 06:46:47 +0000      609 bytes  test/output/instant-article.json</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 06:46:47 +0000      121 bytes  test/output/missing-fields.json</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 06:46:47 +0000     2154 bytes  test/output/narro.json</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 06:46:47 +0000    28601 bytes  test/output/reddit-atom.json</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 06:46:47 +0000    37467 bytes  test/output/reddit-home.json</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 06:46:47 +0000    34188 bytes  test/output/reddit.json</tspan>
+<tspan x="10" y="474"> 28.  2017-04-21 06:46:47 +0000     2001 bytes  test/parser.js</tspan>
 </text>
 </svg>
